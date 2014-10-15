@@ -65,7 +65,7 @@ while0:
 	mov		#0xFF, R13					; beam with a 2 pixel hole in the center
 	 mov     #0x08, r15
        mov     #0x00, r14
-writeLoop
+writeLoop									;for loop to write 8x8 block
 	call	#writeNokiaByte
 	dec r15
        cmp r15, r14
