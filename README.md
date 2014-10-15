@@ -22,7 +22,7 @@ Hooking up the MSP430 to the logic analyzer is shown below.
 
 ![alt text](http://i57.tinypic.com/10fqjjr.jpg)
 
-Below are photos zoomed on on each call to writeNokiaByte
+Below are photos zoomed in on each call to writeNokiaByte
 
 ###Entire Waveform
 
